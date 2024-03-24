@@ -61,7 +61,7 @@ const Banner = () => {
               whileInView={'show'}
               viewport={{ once: false, amounnt: 0.7 }}
               className='mb-8 max-w-lg mx-auto lg:mx-0'>
-              "Hello, I'm Aditi, currently pursuing my degree at Punjab University.As an influencer and YouTuber, I specialize in brand promotion, showcasing and endorsing quality products to my audience."
+              "Hello, I'm Aditi, currently pursuing my degree at Panjab University.As an influencer and YouTuber, I specialize in brand promotion, showcasing and endorsing quality products to my audience."
 
             </motion.p>
             <motion.div

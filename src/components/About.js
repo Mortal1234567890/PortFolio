@@ -42,7 +42,7 @@ const About = () => {
             </h3>
             <p className='mb-6'>
 
-              "Hello, I'm Aditi, currently pursuing my degree at Punjab University. Alongside my studies, I actively engage in influencing and content creation on YouTube. As an influencer and YouTuber, I specialize in brand promotion, showcasing and endorsing quality products to my audience."
+              "Hello, I'm Aditi, currently pursuing my degree at Panjab University. Alongside my studies, I actively engage in influencing and content creation on YouTube. As an influencer and YouTuber, I specialize in brand promotion, showcasing and endorsing quality products to my audience."
 
             </p>
             {/* {stats} */}
